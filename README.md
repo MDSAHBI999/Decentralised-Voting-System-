@@ -2,6 +2,15 @@
 
 <!-- CONTRACT OWNER ADDRESS -->
 
+to run first open terminal and check capability of device 
+
+it have to support letest version of  
+1 metamask
+2 node.js
+3 next.js 
+4 solidity
+5 hardhat 
+
 AD: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
 PK: 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
 
